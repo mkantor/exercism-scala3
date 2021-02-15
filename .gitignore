@@ -1,0 +1,6 @@
+.exercism
+.bloop
+.bsp
+.metals
+target/
+metals.sbt
